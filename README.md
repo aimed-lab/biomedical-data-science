@@ -2,4 +2,4 @@
 
 ### 1. seas-case-study: 
 - Example case study to understand get started with SEAS analysis.
-- Contact: sbharti@uab.edu
+- Contact: Samuel Bharti | sbharti@uab.edu
